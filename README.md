@@ -1,5 +1,13 @@
+<h4 >Instructor: Mert Metin Erdemli</h4>
 
 
+https://www.linkedin.com/in/erdemlimertmetin/
+
+https://www.instagram.com/mertmetin.1/
+
+https://github.com/mertmetin1
+
+erdemlimertmetin@gmail.com
 
 ---
 
@@ -114,6 +122,7 @@
 </ul>
 </li>
 </ul>
+ --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 <h4 id="dosya-i̇şlemleri">5. Dosya İşlemleri</h4>
 <ul>
 <li>Dosya Açma ve Kapatma
